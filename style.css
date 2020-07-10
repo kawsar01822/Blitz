@@ -1,0 +1,165 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family: 'Bebas Neue', cursive;
+	opacity:0.9;
+}
+
+.nav-link{
+	font-size:18px !important;
+	color:#a5a5a5 !important;
+}
+
+.navbar{
+	margin-bottom:55px;
+}
+
+#c1{
+	font-size:26px;
+	color:#474747;
+	position:relative;
+	top:35px;
+	right:60px;
+}
+
+#c2{
+	font-size:26px;
+	color:#474747;
+	position:relative;
+	top:35px;
+	right:77px;
+}
+
+#c3{
+	font-size:26px;
+	color:#474747;
+	position:relative;
+	top:35px;
+	right:77px;
+}
+
+#c4{
+	font-size:26px;
+	color:#474747;
+	position:relative;
+	top:35px;
+	right:72px;
+}
+
+#c5{
+	font-size:26px;
+	color:#474747;
+	position:relative;
+	top:35px;
+	right:73px;
+}
+
+.carousel-caption{
+	background-color:#404040;
+	width:20%;
+	position:absolute;
+	left:0px;
+	bottom:0px;
+	z-index:2;
+	padding:10px 0px;
+}
+
+.carousel-caption p{
+	color:#9a9a9a;
+	font-size:18px;
+	text-align:left;
+	margin-bottom:0px;
+	margin-left:44px;
+}
+
+.carousel-caption h5{
+	color:#ffffff;
+	font-size:28px;
+	margin-bottom:0px;
+}
+
+.caption-2{
+	background-color:#404040;
+	width:100%;
+	position:absolute;
+	left:0px;
+	bottom:0px;
+}
+
+.bottom-slider{
+	background-color:#f6f6f6;
+	padding:15px;
+	margin-bottom:60px;
+}
+
+.bottom-slider h5{
+	font-size:24px;
+	color:#474747;
+}
+
+.bottom-slider p{
+	font-size:20px;
+	font-weight:100;
+	color:#767676;
+	transform: scale(1, .8);
+}
+
+.blog h3{
+	font-size:28px;
+	color:#464646;
+}
+
+.blog p{
+	font-size:19px;
+	color:#707070;
+	transform: scale(1, .8);
+	line-height:30px;
+}
+
+.blog h4{
+	font-size:20px;
+	color:#464646;
+	font-weight:600;
+	margin-bottom:65px;
+}
+
+.line p{
+	background-color:#fff;
+	padding:5px 25px;
+	color:#464646;
+	font-weight:bold;
+	font-size:26px;
+	position:relative;
+	bottom:40px;
+}
+
+.videoSection h3{
+	font-size:22px;
+	color:#464646;
+	font-weight:400;
+}
+
+.videoSection p{
+	font-size:19px;
+	color:#707070;
+	transform: scale(1, .8);
+	line-height:30px;
+	margin-top:-10px;
+}
+
+.videoSection h4{
+	font-size:20px;
+	color:#464646;
+	font-weight:600;
+	margin-bottom:65px;
+}
+
+.footer{
+	min-height:70px;
+}
+
+.footer p{
+	color:#a6a6a6;
+	font-size:18px;
+	transform:scale(1,0.8);
+}
